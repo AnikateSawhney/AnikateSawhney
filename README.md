@@ -8,12 +8,14 @@ My name is Anikate Sawhney and I am a 4th Year engineering student pursuing Comp
 * I make videos regarding hacking on Youtube.
 * Currently studying for OSCP.
 
-## Skills:-
+## Technologies and tools I am familiar with:-
+<image src="https://img.shields.io/badge/bash-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white"> <image src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"> <image src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <image src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=black"> <image src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"> 
+
+  ## Skills:-
 • <image src="https://img.shields.io/badge/-OSINT-red">
 • <image src="https://img.shields.io/badge/-Penetration%20Testing-orange"> 
 • <image src="https://img.shields.io/badge/-Familiarity%20in%20Working%20with%20Unix%2FLinux%20Environments-yellow">
 • <image src="https://img.shields.io/badge/-Social%20Engineering-lightgrey">
 • <image src="https://img.shields.io/badge/-Bash%20Scripting%2CPython-green">
-
-## Technologies and tools I am familiar with:-
-<image src="https://img.shields.io/badge/bash-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white"> <image src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"> <image src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <image src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=black"> <image src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"> 
+  
+  
