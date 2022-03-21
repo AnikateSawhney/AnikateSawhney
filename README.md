@@ -9,7 +9,7 @@ My name is Anikate Sawhney and I am a 4th Year engineering student pursuing Comp
 ▪️ Currently studying for OSCP.
 
 ## Skills:-
-• OSINT(Open-Source Intelligence)
+• <image src="https://img.shields.io/badge/-OSINT-red">
 • Penetration Testing 
 • Familiarity in Working with Unix/Linux Environments
 • Social Engineering
