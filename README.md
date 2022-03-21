@@ -18,4 +18,10 @@ My name is Anikate Sawhney and I am a 4th Year engineering student pursuing Comp
 * <image src="https://img.shields.io/badge/-Social%20Engineering-lightgrey">
 * <image src="https://img.shields.io/badge/-Bash%20Scripting%2CPython-green">
   
-  
+  ## Certifications :-
+ * Introduction to Cybersecurity Tools & Cyber Attacks | IBM, Coursera
+ * Cybersecurity Roles, Processes & Operating System Security | IBM, Coursera
+ * Ethical Hacking | NPTEL, IIT Kharagpur
+ * Introduction to Internet of Things | NPTEL, IIT Madras
+ * Introduction to Cybersecurity for Business | University of Colorado, Coursera
+ * The Joy of Computing using Python | NPTEL, IIT Madras
