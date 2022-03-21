@@ -15,5 +15,5 @@ Skills:-
 • Social Engineering
 • Bash Scripting,Python
 
-##Technologies and tools I am familiar with:-
-<image src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=black"> <image src="https://img.shields.io/badge/bash-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white"> 
+## Technologies and tools I am familiar with:-
+<image src="https://img.shields.io/badge/bash-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white"> <image src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"> <image src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <image src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=black"> <image src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"> <image src="https://www.google.com/search?q=social+engineering+logo&tbm=isch&ved=2ahUKEwiK-PCKmtf2AhUlzHMBHaxKCakQ2-cCegQIABAA&oq=social+engineering+logo&gs_lcp=CgNpbWcQAzIFCAAQgAQyBggAEAgQHjoHCCMQ7wMQJzoECAAQQzoECAAQGFDNA1ikIGC1ImgDcAB4AIABqwGIAeUJkgEDMC45mAEAoAEBqgELZ3dzLXdpei1pbWfAAQE&sclient=img&ei=Xm84YorRIKWYz7sPrJWlyAo&bih=726&biw=1536#imgrc=xNOyWMOxDSa5HM">
