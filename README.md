@@ -6,7 +6,7 @@ My name is Anikate Sawhney and I am a 4th Year Computer Engineering Student@ Gov
 * I play CTFs on Tryhackme and Hackthebox.
 * I write walkthroughs of CTFs on medium.
 * I make videos regarding hacking on Youtube.
-* Currently studying for OSCP.
+* OSCP (Attempt given - 1)
 * Created an Active Directory Pentesting Lab. Their solutions (https://www.youtube.com/watch?v=uOzX36XXrDs&list=PLw5BjpTl2awVQGjr2V01CD3Z-OJ9K0wBa).
 
 ## Technologies and tools I am familiar with:-
