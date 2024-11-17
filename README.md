@@ -37,6 +37,6 @@ My name is Anikate Sawhney and I am a Penetration Tester and Red Teamer.
   
   ## Contact Me :-
  * <a href="https://www.linkedin.com/in/anikate-sawhney-a9078a16b/"><img src="https://img.shields.io/badge/LinkedIn-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
- * <a href="https://www.youtube.com/channel/UCe8huYZp8GUgd2UePmRlUoQ/"><img src="https://img.shields.io/badge/Youtube-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+ * <a href="https://www.youtube.com/channel/UCe8huYZp8GUgd2UePmRlUoQ/"><img src="https://img.shields.io/badge/Youtube-D14836?style=for-the-badge&logo=&logoColor="></a>
  * <a href="https://twitter.com/AnikateSawhney"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
  * <a href="mailto:anikatesawhney549@gmail.com"><img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
