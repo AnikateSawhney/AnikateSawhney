@@ -15,7 +15,7 @@ My name is Anikate Sawhney and I am a Penetration Tester and Red Teamer.
 
 ## Technologies and tools I am familiar with:-
 <image src="![Xbox](https://img.shields.io/badge/Certipy-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)"> <image src="https://img.shields.io/badge/Prisma-%23362D59.svg?style=for-the-badge&logo=sentry&logoColor=white"> 
-<image src="https://img.shields.io/badge/Qualys-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white"> <image src="https://img.shields.io/badge/Checkmarx-0078D6?style=for-the-badge&logo=&logoColor=white"> <image src="https://img.shields.io/badge/Nessus-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <image src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=black"> <image src="https://img.shields.io/badge/Powerview-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"> 
+<image src="https://img.shields.io/badge/Qualys-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white"> <image src="https://img.shields.io/badge/Checkmarx-0078D6?style=for-the-badge&logo=&logoColor=white"> <image src="https://img.shields.io/badge/Nessus-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <image src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=black"> <image src="https://img.shields.io/badge/Powerview-557C94?style=for-the-badge&logo=&logoColor=white"> 
 
   ## Skills:-
 * <image src="https://img.shields.io/badge/Network%20Pentesting-4D4D4D?style=for-the-badge&logo=osint%20terminal&logoColor=white%22">
