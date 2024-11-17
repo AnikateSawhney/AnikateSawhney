@@ -22,8 +22,9 @@ My name is Anikate Sawhney and I am a Penetration Tester and Red Teamer.
 <image src="https://img.shields.io/badge/Web%20App%20Penetration%20Testing-E95420?style=for-the-badge&logoColor=white"> 
 <image src="https://img.shields.io/badge/External%20Pentesting-%2311AB00.svg?&style=for-the-badge&logoColor=white">
 <image src="https://img.shields.io/badge/Active%20Directory%20Pentesting-A81D33?style=for-the-badge&logoColor=white">
-<image src="https://img.shields.io/badge/Source%20Code%2COpen%20Source%Assessment-3776AB?style=for-the-badge&logoColor=black">
-<image src="https://img.shields.io/badge/Internal%Vulnerabiltiy%Assessment-1CE783?style=for-the-badge&logoColor=white">
+<image src="https://img.shields.io/badge/Source%20Code%2COpen%20Source%20Assessment-3776AB?style=for-the-badge&logoColor=black">
+<image src="https://img.shields.io/badge/Internal%20Vulnerabiltiy%20Assessment-1CE783?style=for-the-badge&logoColor=white">
+<image src="https://img.shields.io/badge/Configuration%20Review%231EA366.svg?style=for-the-badge&logoColor=white">
   
   ## Certifications :-
  * CRTP (Certified Red Team Professional) | Altered Security
