@@ -14,13 +14,14 @@ My name is Anikate Sawhney and I am a Penetration Tester and Red Teamer.
 * Repo Link: https://github.com/AnikateSawhney/Active-Directory-Penetration-Testing-Lab
 
 ## Technologies and tools I am familiar with:-
-<image src="https://img.shields.io/badge/bash-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white"> <image src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"> <image src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <image src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=black"> <image src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"> 
+<image src="![Xbox](https://img.shields.io/badge/Certipy-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)"> <image src="https://img.shields.io/badge/Prisma-%23362D59.svg?style=for-the-badge&logo=sentry&logoColor=white"> 
+<image src="https://img.shields.io/badge/Qualys-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white"> <image src="https://img.shields.io/badge/Checkmarx-0078D6?style=for-the-badge&logo=windows&logoColor=white"> <image src="https://img.shields.io/badge/Nessus-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <image src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=black"> <image src="https://img.shields.io/badge/Powerview-557C94?style=for-the-badge&logo=kali-linux&logoColor=white"> 
 
   ## Skills:-
-* <image src="https://img.shields.io/badge/OSINT-4D4D4D?style=for-the-badge&logo=osint%20terminal&logoColor=white%22">
-* <image src="https://img.shields.io/badge/Penetration%20Testing-E95420?style=for-the-badge&logoColor=white"> 
-* <image src="https://img.shields.io/badge/Familiarity%20in%20Working%20with%20Unix%2FLinux%20Environments-%2311AB00.svg?&style=for-the-badge&logoColor=white">
-* <image src="https://img.shields.io/badge/Social%20Engineering-A81D33?style=for-the-badge&logoColor=white">
+* <image src="https://img.shields.io/badge/Network%20Pentesting-4D4D4D?style=for-the-badge&logo=osint%20terminal&logoColor=white%22">
+* <image src="https://img.shields.io/badge/Web%20App%20Penetration%20Testing-E95420?style=for-the-badge&logoColor=white"> 
+* <image src="https://img.shields.io/badge/External%20Pentesting-%2311AB00.svg?&style=for-the-badge&logoColor=white">
+* <image src="https://img.shields.io/badge/Active%20Directory%20Pentesting-A81D33?style=for-the-badge&logoColor=white">
 * <image src="https://img.shields.io/badge/Bash%20Scripting%2CPython-3776AB?style=for-the-badge&logoColor=black">
   
   ## Certifications :-
