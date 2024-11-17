@@ -2,12 +2,15 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+Github+Profile)](https://git.io/typing-svg)
 
-My name is Anikate Sawhney and I am a Penetration Tester with nearly 2 Years of Hands-on experience in Cybersecurity.
+My name is Anikate Sawhney and I am a Penetration Tester and Red Teamer. 
+* I have a Bachelor's Degree in Computer Engineering. 
+* I have more than 2 years of hands-on experience in Cyber Security domain (Red Teaming, AD Pentesting, Web, API, Mobile (android), Source Code, Open Source Assessment, Configuration Review (for Firewalls, Switches and SQL Database), Internal Vulnerability Assessment, External Pentest)
+* I hold the CRTP Certification (Certified Red Team Professional).
 * I play CTFs on Tryhackme and Hackthebox.
 * I write walkthroughs of CTFs on medium.
 * I make videos regarding hacking on Youtube.
 * OSCP (Attempt given - 1)
-* Created an Active Directory Pentesting Lab. Their solutions (https://www.youtube.com/watch?v=uOzX36XXrDs&list=PLw5BjpTl2awVQGjr2V01CD3Z-OJ9K0wBa).
+* I have Created an Active Directory Pentesting Lab and you can find their solutions in the above link:- (https://www.youtube.com/watch?v=uOzX36XXrDs&list=PLw5BjpTl2awVQGjr2V01CD3Z-OJ9K0wBa).
 * Repo Link: https://github.com/AnikateSawhney/Active-Directory-Penetration-Testing-Lab
 
 ## Technologies and tools I am familiar with:-
