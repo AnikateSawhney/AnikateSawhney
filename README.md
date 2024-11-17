@@ -18,13 +18,12 @@ My name is Anikate Sawhney and I am a Penetration Tester and Red Teamer.
 <image src="https://img.shields.io/badge/Qualys-4D4D4D?style=for-the-badge&logo=&logoColor=white"> <image src="https://img.shields.io/badge/Checkmarx-0078D6?style=for-the-badge&logo=&logoColor=white"> <image src="https://img.shields.io/badge/Nessus-FCC624?style=for-the-badge&logo=&logoColor=black"> <image src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=black"> <image src="https://img.shields.io/badge/Powerview-557C94?style=for-the-badge&logo=&logoColor=white"> 
 
   ## Skills:-
-<image src="https://img.shields.io/badge/Network%20Pentesting-4D4D4D?style=for-the-badge&logo=osint%20terminal&logoColor=white%22">
 <image src="https://img.shields.io/badge/Web%20App%20Penetration%20Testing-E95420?style=for-the-badge&logoColor=white"> 
 <image src="https://img.shields.io/badge/External%20Pentesting-%2311AB00.svg?&style=for-the-badge&logoColor=white">
 <image src="https://img.shields.io/badge/Active%20Directory%20Pentesting-A81D33?style=for-the-badge&logoColor=white">
 <image src="https://img.shields.io/badge/Source%20Code%2COpen%20Source%20Assessment-3776AB?style=for-the-badge&logoColor=black">
 <image src="https://img.shields.io/badge/Internal%20Vulnerabiltiy%20Assessment-1CE783?style=for-the-badge&logoColor=white">
-<image src="https://img.shields.io/badge/Configuration%20Review%231EA366.svg?style=for-the-badge&logoColor=white">
+<image src="https://img.shields.io/badge/Configuration%20Review-4D4D4D?style=for-the-badge&logo=osint%20terminal&logoColor=white%22">
   
   ## Certifications :-
  * CRTP (Certified Red Team Professional) | Altered Security
