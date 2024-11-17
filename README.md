@@ -27,12 +27,13 @@ My name is Anikate Sawhney and I am a Penetration Tester and Red Teamer.
   
   ## Certifications :-
  * CRTP (Certified Red Team Professional) | Altered Security
- * Introduction to Cybersecurity Tools & Cyber Attacks | IBM, Coursera
- * Cybersecurity Roles, Processes & Operating System Security | IBM, Coursera
  * Ethical Hacking | NPTEL, IIT Kharagpur
+ * OSCP (pursuing) | Offensive Security 
+ * Offensive Pentesting Learning Path | Tryhackme
  * Introduction to Internet of Things | NPTEL, IIT Madras
- * Introduction to Cybersecurity for Business | University of Colorado, Coursera
  * The Joy of Computing using Python | NPTEL, IIT Madras
+ * Introduction to Cybersecurity for Business | University of Colorado, Coursera
+ * Ethical Hacking | Internshala
   
   ## Contact Me :-
  * <a href="https://www.linkedin.com/in/anikate-sawhney-a9078a16b/"><img src="https://img.shields.io/badge/LinkedIn-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
