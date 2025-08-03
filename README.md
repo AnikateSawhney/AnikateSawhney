@@ -1,9 +1,6 @@
-<h1 align="center">
-  Hi Fellow Hackers <span class="wave">👋</span>
-</h1>
+### Hi Fellow Hackers 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=550&lines=Welcome+to+my+GitHub+Profile)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+Github+Profile)](https://git.io/typing-svg)
 ---
 
 ### 👨‍💻 About Me
