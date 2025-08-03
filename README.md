@@ -1,20 +1,13 @@
-<!-- Profile Header -->
-<h1 align="center">Hi Fellow Hackers 👋, I'm Anikate Sawhney</h1>
-<h3 align="center">Red Teamer | Penetration Tester | Active Directory Specialist</h3>
+### Hi Fellow Hackers 👋
 
-<!-- Typing Animation -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Red+Team+Operator+%7C+Active+Directory+Pentester;Always+Learning+%26+Sharing+Cybersecurity+Knowledge" alt="Typing SVG" />
-  </a>
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=false&vCenter=true&width=550&lines=Welcome+to+my+GitHub+Profile;Red+Team+Operator+%7C+Active+Directory+Pentester;Exploit+Researcher+and+EDR+Bypass+Enthusiast;Always+Learning+and+Sharing+Cybersecurity+Knowledge)](https://git.io/typing-svg)
 
 ---
 
 ### 👨‍💻 About Me
-- 🔐 **Penetration Tester & Red Teamer** with 2+ years of hands-on experience in offensive security.
+- 🔐 **Penetration Tester & Red Teamer** with 2+ years of hands-on experience.
 - 🎓 **Bachelor’s in Computer Engineering** (GCET Jammu, CGPA 8.4).
-- 🛠 Specialize in **Active Directory Exploitation, Red Team Ops, and EDR Bypass Techniques**.
+- 🛠 Specialize in **Active Directory Exploitation, Red Team Ops**.
 - 🎯 Experience in **Web, API, Mobile (Android) Pentesting, Source Code Review, OSINT, Configuration Reviews**.
 - 🏆 Certifications: **CRTP**, **CRTO**, pursuing **OSCP**.
 - 📢 Active CTF player on **TryHackMe** & **HackTheBox** and content creator (YouTube & Medium).
@@ -73,12 +66,3 @@
   <a href="mailto:anikatesawhney549@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
----
-
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnikateSawhney&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AnikateSawhney&theme=radical" alt="GitHub Streak Stats" />
-</p>
-
----
