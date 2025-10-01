@@ -38,6 +38,7 @@
 ---
 
 ### 🏆 Certifications
+- CRTE (Certified Red Team Expert) - Altered Security
 - CRTP (Certified Red Team Professional) – Altered Security
 - CRTO (Certified Red Team Operator) – Zero-Point Security
 - OSCP (Pursuing) – Offensive Security
