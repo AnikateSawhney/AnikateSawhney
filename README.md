@@ -4,7 +4,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔐 **Penetration Tester & Red Teamer** with 2+ years of hands-on experience.
+- 🔐 **Penetration Tester & Red Teamer** with 3+ years of hands-on experience.
 - 🎓 **Bachelor’s in Computer Engineering** (GCET Jammu, CGPA 8.4).
 - 🛠 Specialize in **Active Directory Exploitation, Red Team Ops**.
 - 🎯 Experience in **Web, API, Mobile (Android) Pentesting, Source Code Review, OSINT, Configuration Reviews**.
@@ -39,6 +39,7 @@
 
 ### 🏆 Certifications
 - CRTE (Certified Red Team Expert) - Altered Security
+- CARTP (Certified Azure Red Team Professional) – Altered Security
 - CRTP (Certified Red Team Professional) – Altered Security
 - CRTO (Certified Red Team Operator) – Zero-Point Security
 - OSCP (Pursuing) – Offensive Security
