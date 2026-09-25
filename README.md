@@ -8,7 +8,7 @@
 - 🎓 **Bachelor’s in Computer Engineering** (GCET Jammu, CGPA 8.4).
 - 🛠 Specialize in **Active Directory Exploitation, Red Team Ops**.
 - 🎯 Experience in **Web, API, Mobile (Android) Pentesting, Source Code Review, OSINT, Configuration Reviews**.
-- 🏆 Certifications: **CRTP**, **CRTO**, pursuing **OSCP**.
+- 🏆 Certifications: **CRTP**, **CARTP**, **CRTE**, **CRTO**, pursuing **OSCP**.
 - 📢 Active CTF player on **TryHackMe** & **HackTheBox** and content creator (YouTube & Medium).
 
 ---
